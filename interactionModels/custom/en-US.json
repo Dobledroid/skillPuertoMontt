@@ -1,0 +1,104 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hello",
+            "how are you",
+            "say hello world",
+            "say hello",
+            "hello world"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": [
+            "I don\u0027t know what to do",
+            "I am confused"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "DescriptionIntent",
+          "samples": [
+            "tell me about puerto montt",
+            "description of puerto montt",
+            "I want to know about puerto montt",
+            "information about puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TouristPlacesIntent",
+          "samples": [
+            "tourist places in puerto montt",
+            "what places can I visit in puerto montt",
+            "attractions in puerto montt",
+            "what to visit in puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TypicalFoodIntent",
+          "samples": [
+            "typical food of puerto montt",
+            "what food can I try in puerto montt",
+            "typical dishes of puerto montt",
+            "what to eat in puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TraditionalClothingIntent",
+          "samples": [
+            "traditional costume of puerto montt",
+            "traditional clothing of puerto montt",
+            "typical clothing of puerto montt",
+            "what do they wear in puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FamousPeopleIntent",
+          "samples": [
+            "outstanding people from puerto montt",
+            "who are famous in puerto montt",
+            "celebrities from puerto montt",
+            "notable figures from puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicIntent",
+          "samples": [
+            "typical music of puerto montt",
+            "what music do they listen to in puerto montt",
+            "traditional songs of puerto montt",
+            "musical genres in puerto montt"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "chilecaapl"
+    }
+  }
+}

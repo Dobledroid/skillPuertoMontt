@@ -1,0 +1,104 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": [
+            "no sé qué hacer",
+            "estoy confundido"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "DescriptionIntent",
+          "samples": [
+            "dime sobre puerto montt",
+            "descripción de puerto montt",
+            "quiero saber sobre puerto montt",
+            "información de puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TouristPlacesIntent",
+          "samples": [
+            "lugares turísticos en puerto montt",
+            "qué lugares puedo visitar en puerto montt",
+            "atracciones en puerto montt",
+            "qué visitar en puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TypicalFoodIntent",
+          "samples": [
+            "comida típica de puerto montt",
+            "qué comida puedo probar en puerto montt",
+            "platos típicos de puerto montt",
+            "qué comer en puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TraditionalClothingIntent",
+          "samples": [
+            "traje típico de puerto montt",
+            "vestimenta tradicional de puerto montt",
+            "ropa típica de puerto montt",
+            "qué usan en puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FamousPeopleIntent",
+          "samples": [
+            "personas sobresalientes de puerto montt",
+            "quiénes son famosos en puerto montt",
+            "celebridades de puerto montt",
+            "figuras notables de puerto montt"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicIntent",
+          "samples": [
+            "música típica de puerto montt",
+            "qué música escuchan en puerto montt",
+            "canciones tradicionales de puerto montt",
+            "géneros musicales en puerto montt"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "aplchileca"
+    }
+  }
+}
